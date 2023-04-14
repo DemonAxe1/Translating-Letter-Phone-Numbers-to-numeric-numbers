@@ -17,32 +17,28 @@ This program prompts the user if they have a letter-number that they want to tra
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the program, prompted to pick an option from the main menue: <br/>
+Launch the program, the program prompts the user if they have a number to translate or not: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/1.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 1 (which converets Fahrenheit to Celsius) and is prompted to enter a temp:  <br/>
-<img src="https://github.com/DemonAxe1/img/blob/main/1.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+If the user enters y then the program prompts the user for the number word input:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/2%20press%20yes.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Results are printed and the user is prompted again to pick an option from the main menue: <br/>
+The user input is then translated and printed out as a number: <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/3%20enter%20number.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 2 (which converets Fahrenheit to kelvin) and is prompted to enter a temp:  <br/>
-<img src="https://github.com/DemonAxe1/img/blob/main/4-%20option%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The program prompts the user if they have another number word that they want to translate:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/4%20prompt%20again%20adn%20say%20yes.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Results are printed and the user is prompted again to pick an option from the main menue:  <br/>
-<img src="https://github.com/DemonAxe1/img/blob/main/5-%20results%202.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+If the user enteres y then the user is prompted with entering another number word (Notice it accepts diffrent formats of characters) :  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/5%20user%20enteres%20another%20number.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The user picked 3, the result table is printed and is prompted again to pick an option from the main menue:  <br/>
-<img src="https://github.com/DemonAxe1/img/blob/main/6-%20Print%20table.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-The user Picked 4 and the program terminates:  <br/>
-<img src="https://github.com/DemonAxe1/img/blob/main/7-%20Exit.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The program translates and prints the number word to a normal word, then the user is prompted if they want to go again. If anything other than y is entered he code terminates:  <br/>
+<img src="https://github.com/DemonAxe1/img/blob/main/6%20exit.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
