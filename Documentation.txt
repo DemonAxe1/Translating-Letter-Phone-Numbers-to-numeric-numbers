@@ -1,0 +1,26 @@
+Letter Numbers to Numeric Numbers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+This program prompts the user if they have a letter-number that they want to translate. 
+If the user enters ‘y’ or ‘Y’ then the program will give them a prompt to enter a letter number. 
+The program takes that string of letters and translates them to a number and prints it out on screen. 
+The user is then asked if they have another number if ‘y’ or ‘Y’ is entered then the program loops if 
+anything else is entered the program prints a thank you message and exits.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User input:
+---------------
+The user is prompted with an option to press y if they have a letter number or anything else to exit. 
+Then the user is prompted with entering the letters. However, many characters are entered the program will only read the first 7. It ignores numbers. 
+At the end after the number is printed, the user is then asked if they have another number. If they do they enter y if not then they can press anything.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Output:
+----------
+Once the user input is taken, the program turns any letter to lower case then checks in a switch case if they fall into specific number categories,
+ 1 = a, b, c. 2 = d, e, f, and so on.
+ Each number is printed separately after the first 3 numbers it adds a ‘-‘ and 
+then after the 7th number the loop stops and prompts the user if they want to try a different number.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
