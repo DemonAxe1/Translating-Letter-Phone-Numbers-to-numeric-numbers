@@ -21,7 +21,7 @@ Launch the program, the program prompts the user if they have a number to transl
 <img src="https://github.com/DemonAxe1/img/blob/main/1.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-If the user enters y then the program prompts the user for the number word input:  <br/>
+If the user enters "y" then the program prompts the user for the number word input:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/2%20press%20yes.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -33,11 +33,11 @@ The program prompts the user if they have another number word that they want to 
 <img src="https://github.com/DemonAxe1/img/blob/main/4%20prompt%20again%20adn%20say%20yes.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-If the user enteres y then the user is prompted with entering another number word (Notice it accepts diffrent formats of characters) :  <br/>
+If the user enters "y" then the user is prompted with entering another number word (Notice it accepts different formats of characters) :  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20user%20enteres%20another%20number.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The program translates and prints the number word to a normal word, then the user is prompted if they want to go again. If anything other than y is entered he code terminates:  <br/>
+The program translates and prints the number word to a normal word, then the user is prompted if they want to go again. If anything other than "y" is entered he code terminates:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/6%20exit.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
