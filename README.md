@@ -37,7 +37,7 @@ If the user enters "y" then the user is prompted with entering another number wo
 <img src="https://github.com/DemonAxe1/img/blob/main/5%20user%20enteres%20another%20number.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The program translates and prints the number word to a normal word, then the user is prompted if they want to go again. If anything other than "y" is entered he code terminates:  <br/>
+The program translates and prints the number word into a normal word, then the user is prompted if they want to go again. If anything other than "y" is entered the code terminates:  <br/>
 <img src="https://github.com/DemonAxe1/img/blob/main/6%20exit.PNG?raw=true.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
