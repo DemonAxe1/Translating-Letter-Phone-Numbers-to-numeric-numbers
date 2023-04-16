@@ -1,5 +1,5 @@
 /*
-Name: Tarek Hisham Ahmed Fouad
+Name: DemonAxe
 This project takes in a letter phone number and turns it into a normal numeric number. It only registers the first 7 letters to convert them to numbers. This application also asks the user if they have another number.
 */
 #include <iostream>
